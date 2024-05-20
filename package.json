@@ -1,0 +1,19 @@
+{
+  "name": "vod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/first02pm/vod_npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/first02pm/vod_npm/issues"
+  },
+  "homepage": "https://github.com/first02pm/vod_npm#readme"
+}
